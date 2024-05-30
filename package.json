@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.38.5",
+    "langchain": "^0.0.170",
+    "pdf-parse": "^1.1.1",
+    "youtube-transcript": "^1.0.6",
+    "youtubei.js": "^5.8.0"
+  },
+  "name": "ai-practice-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
